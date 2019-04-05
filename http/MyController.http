@@ -1,0 +1,7 @@
+GET http://localhost:5000/api/my/getDataAsync
+
+### SuppressAsyncSuffixInActionNames
+GET http://localhost:5000/api/my/getData
+
+### A
+GET http://localhost:5000/api/my/a
