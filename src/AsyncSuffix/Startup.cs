@@ -12,7 +12,7 @@ using Microsoft.Extensions.Hosting;
 using Microsoft.Extensions.Logging;
 using Microsoft.Extensions.Options;
 
-namespace AsyncSubffix {
+namespace AsyncSuffix {
     public class Startup {
         public Startup(IConfiguration configuration) {
             Configuration = configuration;
